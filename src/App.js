@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello Clever Programmers !</h1>
+      <h1>Hi</h1>
       <form style={{ display: "flex", justifyContent: "center" }}>
         <FormControl>
           <InputLabel>Write a Todo</InputLabel>
